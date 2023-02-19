@@ -1,4 +1,6 @@
 ## Meet Mirzakhani
+![Mirzikhani](./images/Mirzikhani.gif)
+
 |Team Member|[IMG]|[Connect]|[STATS]|[Views]|
 |:----------|:---:|:--------:|:----:|:-----:|
 |Burton Barnes|![Burton's_PIC](./images/AP_Burton.jpg)|[![LinkedIn](https://img.shields.io/badge/Burton's%20linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burton-barnes-9b28b21a6/)[![GitHub](https://img.shields.io/badge/Burton's%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BurtonBarnes)[![Codeup Alumni](https://img.shields.io/badge/Burton's%20Codeup%20Alumni%20Page-green?style=for-the-badge&logo=codeup&logoColor=white)](https://alumni.codeup.com/students/1719)|![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BurtonBarnes)|![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BurtonBarnes)![Profile Views](https://komarev.com/ghpvc/?username=your-github-BurtonBarnes&color=66CDEB)
